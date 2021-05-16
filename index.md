@@ -8,7 +8,7 @@ The main goal of this seminar is to understand Urs Schreiber’s work [Different
 
 This seminar is inspired [Exodromy](https://web.math.princeton.edu/~rdobben/exodromy.html). We aim for informal talks, and we can take as much time as we need. This group can last for a long period so that we can have time to work on more content.
 
-Talks will be on TBA 13:30–15:00 (ET) through Zoom. Everyone who wants to participate can join our Zulip(?) or subscribe our email list.
+Talks will be on TBA 13:30–15:00 (ET) through Zoom. Everyone who wants to participate can join our Zulip(?) or subscribe our email list. Currently can contact me [by email](https://iamcxds.github.io/dif-coh-topos/)
 
 ## References
 
@@ -24,20 +24,23 @@ Talks will be on TBA 13:30–15:00 (ET) through Zoom. Everyone who wants to part
 
 ## Schedule
 
+<div class="embeddable_schedule" shortname="DifCohTop" daterange="future"></div>
+<script src="https://researchseminars.org/embed_seminars.js" onload="seminarEmbedder.initialize({'addCSS': true});"></script>
+
 ### 2021.5.20 Someone
 
 <details><summary> Example title</summary>
-</p>
+
 
 test description.
-</p>
+
 </details>
 
 ### 2021.5.27 Someone2
 
 <details><summary> Example title 2</summary>
-</p>
+
 
 another test description.
-</p>
+
 </details>
