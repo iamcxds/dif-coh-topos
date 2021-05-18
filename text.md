@@ -14,7 +14,7 @@ Talks will be on TBA 13:30–15:00 (ET) through Zoom. Everyone who wants to part
 
 ### Main
 
-- Urs Schreiber, Differential cohomology in a cohesive infinity-topos[(v1)](https://arxiv.org/abs/1310.7930v1) [(v2)](https://ncatlab.org/schreiber/files/dcct170811.pdf)
+- Urs Schreiber, Differential cohomology in a cohesive infinity-topos[(v2)](https://ncatlab.org/schreiber/files/dcct170811.pdf)
 - [Geometry of Physics](https://ncatlab.org/nlab/show/geometry+of+physics)
 - [more references](https://ncatlab.org/schreiber/show/differential+cohomology+in+a+cohesive+topos+--+references)
 
