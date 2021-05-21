@@ -1,58 +1,101 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/modest.css">
     <title>Working Group on Differential Cohesive Topos</title>
 </head>
-<body>
-    <h1>Working Group on Differential Cohesive Topos</h1> 
-    <h2>Outline</h2>
-    <p>The main goal of this seminar is to understand Urs Schreiber’s work <a href="https://ncatlab.org/schreiber/show/differential+cohomology+in+a+cohesive+topos">Differential cohomology in a cohesive infinity-topos</a> and other related material.</p>
-    <h2>Format</h2>
-    <p>
-        This seminar is inspired <a href="https://web.math.princeton.edu/~rdobben/exodromy.html">Exodromy</a>. We aim for informal talks, and we can take as much time as we need. This group can last for a long period so that we can have time to work on more content.
-    </p>
-    <p>
-        Talks will be on sometime each week (TBA) through Zoom. Everyone who wants to participate can fill <a href="https://forms.gle/N7Bixe3drvAt7zfS7">the form</a> (or see <a href="#registration form">below</a>) and join our <a href="https://discord.gg/nUkSJJQgee">Discord</a>. You  can also contact me <a href="mailto:keyao.peng@univ-grenoble-alpes.fr ">by email</a></p>
-        
-    <h2>References</h2>
-    <h3>Main</h3>
-    <p><ul>
-        <li>[DCCIT] Urs Schreiber, Differential cohomology in a cohesive infinity-topos <a href="https://ncatlab.org/schreiber/files/dcct170811.pdf">(v2)</a></li>
-        <li><a href="https://ncatlab.org/nlab/show/geometry+of+physics">Geometry of Physics</a></li>
-        <li><a href="https://ncatlab.org/schreiber/show/differential+cohomology+in+a+cohesive+topos+--+references">more references</a>
-        </li>
-    </ul></p>
-    <h3>Extra Resources</h3>
-    <p><ul>
-        <li>EPIT Spring School on Homotopy Type Theory, <a href="https://www.youtube.com/channel/UCjJu7eXFuKwIp5W6pxeMsBQ">videos</a>
-        </li>
-        <li>Higher Algebra, Homotopy Theory Münster, <a href="https://www.youtube.com/playlist?list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB">videos</a> 
-        </li>
-        <li>Topos à l'IHES, <a href="https://www.youtube.com/playlist?list=PLx5f8IelFRgFjhhrWWl96sRSClcG5YIx6">videos</a> <br>
-            especially, Urs SCHREIBER - Synthetic prequantum field theory in a cohesive homotopy topos, <a href="https://www.youtube.com/watch?v=_O41kh0z_UM">video</a>
-        </li>
-        <li>Felix Wellen: The Shape Modality in Real cohesive HoTT and Covering Spaces, <a href="https://www.youtube.com/watch?v=ACGjJDarEc4">video</a> <br>
-        Felix Wellen: Discrete and Codiscrete Modalities in Cohesive HoTT, <a href="https://www.youtube.com/watch?v=KXx9UDQdWPw">video</a> <br>
-        Felix Wellen: Differential Cohesive HoTT, <a href="https://www.youtube.com/watch?v=uEZXHPdwvJU">video</a>
-        </li>
-        <li>A Synthetic Approach to the Formal Theory of PDEs, <a href="https://www.youtube.com/watch?v=yjVXmS-sZ0w">video</a> 
-        </li>
-    </ul></p>
-    
 
-    <h2>Schedule</h2>
+<body>
+    <h1 id="working-group-on-differential-cohesive-topos">Working Group on Differential Cohesive Topos</h1>
+    <h2 id="outline">Outline</h2>
+    <p>The main goal of this seminar is to understand Urs Schreiber’s work <a
+            href="https://ncatlab.org/schreiber/show/differential+cohomology+in+a+cohesive+topos">Differential
+            cohomology in a cohesive infinity-topos</a> and other related material.</p>
+    <h2 id="format">Format</h2>
+    <p>This seminar is inspired <a href="https://web.math.princeton.edu/~rdobben/exodromy.html">Exodromy</a>. We aim for
+        informal talks, and we can take as much time as we need. This group can last for a long period so that we can
+        have time to work on more content.</p>
+    <p>Talks will be on sometime each week (TBA) through Zoom. Everyone who wants to participate can fill <a
+            href="https://forms.gle/N7Bixe3drvAt7zfS7">the form</a> (or see <a href="#registration">below</a>) and join
+        our <a href="https://discord.gg/nUkSJJQgee">Discord</a>. You can also contact me by <a
+            href="mailto:keyao.peng@univ-grenoble-alpes.fr">by mail</a>.</p>
+    <h2 id="about-the-prerequisites">About the Prerequisites</h2>
+    <p>Because we can plan for a long time, we can work and discuss some advance and unwell-known prerequisites, like
+        higher topos theory. My point is we do not need to be experts for using them in [DCCIT]. Instead, we can first
+        try to have rough pictures, know what they are, and keep some examples in mind. Then we can use them to read
+        further texts, like here [DCCIT], in that process we can gradually realize those details we missed. That is also
+        the goal of this seminar. We also list some helpful resources below for you.</p>
+    <p>Of course, there is something we assume is well-known, like basic category theory, differential geometry,
+        algebraic topology... But if you don't have confidence in those, don't worry, since in many cases it just
+        requires to know some concept, and give them new interpretation in high level. On other hand, well-known means
+        there are a lot of materials and not so hard, so you might quickly catch up.</p>
+    <h2 id="references">References</h2>
+    <h3 id="main">Main</h3>
+    <ul>
+        <li>Urs Schreiber, Differential cohomology in a cohesive infinity-topos <a
+                href="https://ncatlab.org/schreiber/files/dcct170811.pdf">(v2)</a></li>
+        <li><a href="https://ncatlab.org/nlab/show/geometry+of+physics">Geometry of Physics</a></li>
+        <li><a href="https://ncatlab.org/schreiber/show/differential+cohomology+in+a+cohesive+topos+--+references">more
+                references</a></li>
+    </ul>
+    <h3 id="extra-resources">Extra Resources</h3>
+    <ul>
+        <li>
+            <p>EPIT Spring School on Homotopy Type Theory, <a
+                    href="https://www.youtube.com/channel/UCjJu7eXFuKwIp5W6pxeMsBQ">videos</a></p>
+        </li>
+        <li>
+            <p>Higher Algebra, Homotopy Theory Münster, <a
+                    href="https://www.youtube.com/playlist?list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB">videos</a></p>
+        </li>
+        <li>
+            <p>Topos à l'IHES, <a
+                    href="https://www.youtube.com/playlist?list=PLx5f8IelFRgFjhhrWWl96sRSClcG5YIx6">videos</a><br>
+                especially, Urs SCHREIBER - Synthetic prequantum field theory in a cohesive homotopy topos, <a
+                    href="https://arxiv.org/abs/1601.05956">paper</a>, <a
+                    href="https://www.youtube.com/watch?v=_O41kh0z_UM">video</a></p>
+        </li>
+        <li>
+            <p>Felix Wellen, The Shape Modality in Real cohesive HoTT and Covering Spaces, <a
+                    href="https://www.youtube.com/watch?v=ACGjJDarEc4">video</a><br>
+                Felix Wellen, Discrete and Codiscrete Modalities in Cohesive HoTT, <a
+                    href="https://www.youtube.com/watch?v=KXx9UDQdWPw">video</a><br>
+                Felix Wellen, Differential Cohesive HoTT, <a
+                    href="https://www.youtube.com/watch?v=uEZXHPdwvJU">video</a><br>
+                Felix Wellen, Formalizing Cartan Geometry in Modal Homotopy Type Theory, <a
+                    href="https://ncatlab.org/schreiber/show/thesis+Wellen">thesis</a></p>
+        </li>
+        <li>
+            <p>Michael Shulman, Homotopy type theory: the logic of space, <a
+                    href="https://arxiv.org/abs/1703.03007">paper</a><br>
+                Michael Shulman, Brouwer's fixed-point theorem in real-cohesive homotopy type theory, <a
+                    href="https://arxiv.org/abs/1509.07584">paper</a></p>
+        </li>
+        <li>
+            <p>A Synthetic Approach to the Formal Theory of PDEs, <a href="https://arxiv.org/abs/1701.06238">paper</a>,
+                <a href="https://www.youtube.com/watch?v=yjVXmS-sZ0w">video</a></p>
+        </li>
+    </ul>
+    <hr>
+    <h2 id="schedule">Schedule</h2>
     <p>rough schedule, we are still planning...</p>
     <div class="embeddable_schedule" shortname="DifCohTop" daterange="future"></div>
-    <script src="https://researchseminars.org/embed_seminars.js" onload="seminarEmbedder.initialize({'addCSS': true});"></script>
-    
-    <h2>Registration</h2>
-        <details><summary id="registration form">registration form</summary>
-        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdAg2Z9orcVM86ZV9WNBGjrCn99smaQrjSG6o3aB0JJh_n6EA/viewform?embedded=true" width="640" height="1285" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-        </details>
-    
-    
+    <script src="https://researchseminars.org/embed_seminars.js"
+        onload="seminarEmbedder.initialize({'addCSS': true});"></script>
+    <h2 id="registration">Registration</h2>
+    <details>
+        <summary id="registration form">registration form</summary>
+        <iframe
+            src="https://docs.google.com/forms/d/e/1FAIpQLSdAg2Z9orcVM86ZV9WNBGjrCn99smaQrjSG6o3aB0JJh_n6EA/viewform?embedded=true"
+            width="640" height="1285" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+    </details>
+
+
+
 </body>
+
 </html>
