@@ -22,6 +22,7 @@ Of course, there are some things that we assume to be known, like the basics of 
 
 - Urs Schreiber, Differential cohomology in a cohesive infinity-topos [(v2)](https://ncatlab.org/schreiber/files/dcct170811.pdf)
 - [Geometry of Physics](https://ncatlab.org/nlab/show/geometry+of+physics)
+- [Science of Logic](https://ncatlab.org/nlab/show/Science+of+Logic)
 - [more references](https://ncatlab.org/schreiber/show/differential+cohomology+in+a+cohesive+topos+--+references)
 
 ### Extra Resources
