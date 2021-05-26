@@ -6,15 +6,15 @@ The main goal of this seminar is to understand Urs Schreiber’s work [Different
 
 ## Format
 
-This seminar is inspired [Exodromy](https://web.math.princeton.edu/~rdobben/exodromy.html). We aim for informal talks, and we can take as much time as we need. This group can last for a long period so that we can have time to work on more content.
+This seminar is inspired [Exodromy](https://web.math.princeton.edu/~rdobben/exodromy.html). We aim for informal talks, and we can take as much time as we need. This group can last for an extended period so that we can have time to work on more content.
 
 Talks will be on sometime each week (TBA) through Zoom. Everyone who wants to participate can fill [the form](https://forms.gle/N7Bixe3drvAt7zfS7) (or see [below](#registration)) and join our [Discord](https://discord.gg/nUkSJJQgee). You can also contact me by [by mail](mailto:keyao.peng@univ-grenoble-alpes.fr).
 
 ## About the Prerequisites
 
-Because we can plan for a long time, we can work and discuss some advance and unwell-known prerequisites, like higher topos theory. My point is we do not need to be experts for using them in [DCCIT]. Instead, we can first try to have rough pictures, know what they are, and keep some examples in mind. Then we can use them to read further texts, like here [DCCIT], in that process we can gradually realize those details we missed. That is also the goal of this seminar. We also list some helpful resources below for you.
+Because we can plan for this group to continue for some time, we can work and discuss some advanced and not so well-known prerequisites, like higher topos theory. My point is that we do not need to be experts for using them in [DCCIT]. Instead, we can first try to have rough pictures, know what they are, and keep some examples in mind. Then we can use them to read further texts, like here [DCCIT]; in that process, we can gradually realize the details we missed. That is also the goal of this seminar. We also list some helpful resources below for you.
 
-Of course, there is something we assume is well-known, like basic category theory, differential geometry, algebraic topology... But if you don't have confidence in those, don't worry, since in many cases it just requires to know some concept, and give them new interpretation in high level. On other hand, well-known means there are a lot of materials and not so hard, so you might quickly catch up.
+Of course, there are some things that we assume to be known, like the basics of category theory, differential geometry and algebraic topology. But if you don't have confidence in those, don't worry, since it is often enough to just know the basic idea in many cases, and we will later give them new interpretations at a higher level as we progress. On the other hand, since these prerequisites are well-known and classical, there is a lot of material, and it is not too hard to brush up on the basics, so it should be possible to quickly catch up.
 
 ## References
 
@@ -34,7 +34,7 @@ especially, Urs SCHREIBER - Synthetic prequantum field theory in a cohesive homo
 - Felix Wellen, The Shape Modality in Real cohesive HoTT and Covering Spaces, [video](https://www.youtube.com/watch?v=ACGjJDarEc4)  
 Felix Wellen, Discrete and Codiscrete Modalities in Cohesive HoTT, [video](https://www.youtube.com/watch?v=KXx9UDQdWPw)  
 Felix Wellen, Differential Cohesive HoTT, [video](https://www.youtube.com/watch?v=uEZXHPdwvJU)  
-Felix Wellen, Formalizing Cartan Geometry in Modal Homotopy Type Theory, [thesis](https://ncatlab.org/schreiber/show/thesis+Wellen)
+Felix Wellen, Formalizing Cartan Geometry in Modal Homotopy Type Theory, [thesis](https://ncatlab.org/schreiber/show/thesis+Wellen) [updated thesis](https://arxiv.org/pdf/1806.05966.pdf)
 
 - Michael Shulman, Homotopy type theory: the logic of space, [paper](https://arxiv.org/abs/1703.03007)  
 Michael Shulman, Brouwer's fixed-point theorem in real-cohesive homotopy type theory, [paper](https://arxiv.org/abs/1509.07584)
