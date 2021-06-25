@@ -8,7 +8,7 @@ The main goal of this seminar is to understand Urs Schreiber’s work [Different
 
 This seminar is inspired [Exodromy](https://web.math.princeton.edu/~rdobben/exodromy.html). We aim for informal talks, and we can take as much time as we need. This group can last for an extended period so that we can have time to work on more content.
 
-Talks will be on sometime each week (TBA) through Zoom. Everyone who wants to participate can fill [the form](https://forms.gle/N7Bixe3drvAt7zfS7) (or see [below](#registration)) and join our [Discord](https://discord.gg/nUkSJJQgee). You can also contact me by [by mail](mailto:keyao.peng@univ-grenoble-alpes.fr).
+We run our group more asynchronous and flexible: the speakers can choose the lecture time as they want or record a video by themselves, and then we put the record online. Everyone who wants to participate can fill [the form](https://forms.gle/N7Bixe3drvAt7zfS7) (or see [below](#registration)) and join our [Discord](https://discord.gg/nUkSJJQgee). You can also subscribe our [mail list](https://listes.univ-grenoble-alpes.fr/sympa/subscribe/dif-coh-topos) or contact me by [by mail](mailto:keyao.peng@univ-grenoble-alpes.fr).
 
 ## About the Prerequisites
 
@@ -29,6 +29,7 @@ Of course, there are some things that we assume to be known, like the basics of 
 
 - EPIT Spring School on Homotopy Type Theory, [videos](https://www.youtube.com/channel/UCjJu7eXFuKwIp5W6pxeMsBQ)
 - Higher Algebra, Homotopy Theory Münster, [videos](https://www.youtube.com/playlist?list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB)
+- Jacob Lurie, On Infinity Topoi, [paper](https://arxiv.org/abs/math/0306109)
 
 - Topos à l'IHES, [videos](https://www.youtube.com/playlist?list=PLx5f8IelFRgFjhhrWWl96sRSClcG5YIx6)  
 especially, Urs SCHREIBER - Synthetic prequantum field theory in a cohesive homotopy topos, [paper](https://arxiv.org/abs/1601.05956), [video](https://www.youtube.com/watch?v=_O41kh0z_UM)
